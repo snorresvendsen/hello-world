@@ -7,4 +7,4 @@ My coding journey:
 2013: Common Lisp.
 2016: Clojure.
 
-"Noob" is not an insult, it's a state of mind.
+"Noob" is not only an insult, it's also a state of mind.
