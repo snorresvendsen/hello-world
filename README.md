@@ -1,10 +1,10 @@
 # hello-world
 
-My coding journey:
-1982: Commodore Basic.
-1985: MSX Basic.
-1989: Turbo Pascal.
-2013: Common Lisp.
-2016: Clojure.
+Sloppy hobbyist coder since 1982!
 
-"Noob" is not only an insult, it's also a state of mind.
+1982: Commodore.
+1985: MSX.
+1989: Turbo Pascal, some 8086 assembly.
+2013: Common Lisp.
+
+"Noob" is a state of mind. Procrastinate with impunity!
