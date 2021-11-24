@@ -7,4 +7,4 @@ Sloppy hobbyist coder since 1982!
 1989: Turbo Pascal, some 8086 assembly.
 2013: Common Lisp.
 
-"Noob" is a state of mind. Procrastinate with impunity!
+"Noob" is a state of mind.
