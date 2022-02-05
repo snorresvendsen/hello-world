@@ -1,6 +1,6 @@
 # hello-world
 
-Sloppy hobbyist coder since 1982!
+Hobby coder since 1982.
 
 1982: Commodore.
 1985: MSX.
